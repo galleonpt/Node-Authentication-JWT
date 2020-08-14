@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   <b>JWT Authentication</b>  
-</h3>
+</h2>
 
 ## :bookmark: Sobre
 
@@ -13,7 +13,7 @@ Num projeto escolar foi utilizado jwt com c#, o que me levou a querer entender c
 ## :computer: Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/en/)
-- [bcrypt](https://www.npmjs.com/package/bcrypt)
-- [celebrate](https://www.npmjs.com/package/celebrate)
-- [express](https://www.npmjs.com/package/express)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Celebrate](https://www.npmjs.com/package/celebrate)
+- [Express](https://www.npmjs.com/package/express)
 - [JWT](https://www.npmjs.com/package/jsonwebtoken)
